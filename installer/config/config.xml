@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Installer>
+    <Name>Example</Name>
+    <Version>1.0.0</Version>
+    <Title>Test Setup</Title>
+    <Publisher>Coffield Web</Publisher>
+    <StartMenuDir>test</StartMenuDir>
+	<ProductUrl>https://cunorthwest.com/</ProductUrl>
+    <TargetDir>@HomeDir@/test</TargetDir>
+	<MaintenanceToolName>SDKMaintenanceTool</MaintenanceToolName>
+</Installer>
